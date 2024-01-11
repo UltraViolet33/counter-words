@@ -1,6 +1,6 @@
 # Counter Words 
 
-## React web app to help me sticking to my writings goals every day
+## React web app to help me sticking to my writing goals every day
 
 - Frontend
 React web app
